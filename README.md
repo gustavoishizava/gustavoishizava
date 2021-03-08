@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Gustavo C. Ishizava 👋
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavoishizava)](https://github.com/gustavoishizava)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-cabral-ishizava-32374a14a/)](https://www.linkedin.com/in/gustavo-cabral-ishizava-32374a14a/)
 
 <!--
 **gustavoishizava/gustavoishizava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
